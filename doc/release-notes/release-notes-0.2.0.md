@@ -1,8 +1,8 @@
-WISPR Core version *3.1.0.1* is now available from:  <https://github.com/WisprProject/core/releases>
+WISPR Core version *3.1.0.1* is now available from:  <https://github.com/lulworm/core/releases>
 
-This is a new bugfix release, specifically addressing a bug with windows OS masternode control wallets. Users upgrading to this version are encouraged to also read the detailed release notes for the previous [3.1.0](https://github.com/WisprProject/core/releases/tag/v3.1.0) release as information will not be duplicated here.
+This is a new bugfix release, specifically addressing a bug with windows OS masternode control wallets. Users upgrading to this version are encouraged to also read the detailed release notes for the previous [3.1.0](https://github.com/lulworm/core/releases/tag/v3.1.0) release as information will not be duplicated here.
 
-Please report bugs using the issue tracker at github: <https://github.com/WisprProject/core/issues>
+Please report bugs using the issue tracker at github: <https://github.com/lulworm/core/issues>
 
 How to Upgrade
 ==============

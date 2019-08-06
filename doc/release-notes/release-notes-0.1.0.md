@@ -1,13 +1,13 @@
 WISPR Core version 3.0.6 is now available from:
 
-  <https://github.com/WisprProject/core/releases>
+  <https://github.com/lulworm/core/releases>
 
 This is a new minor-revision version release, including various bug fixes and
 performance improvements, as well as updated translations.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/WisprProject/core/issues>
+  <https://github.com/lulworm/core/issues>
 
 
 How to Upgrade

@@ -43,7 +43,7 @@ Build WISPR Core
 
 1. Clone the WISPR Core source code:
 
-        git clone https://github.com/WisprProject/core
+        git clone https://github.com/lulworm/core
         cd wispr
 
 2.  Make the Homebrew OpenSSL headers visible to the configure script  (do ```brew info openssl``` to find out why this is necessary, or if you use Homebrew with installation folders different from the default).

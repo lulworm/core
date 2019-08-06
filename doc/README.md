@@ -26,7 +26,7 @@ Drag WISPR-Qt to your applications folder, and then run WISPR-Qt.
 
 ### Need Help?
 
-* See the documentation at the [WISPR Wiki](https://github.com/WisprProject/core/wiki)
+* See the documentation at the [WISPR Wiki](https://github.com/lulworm/core/wiki)
 for help and more information.
 * Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [WISPR Forum](http://forum.wispr.org/).
 * Join our Discord server [Discord Server](https://discord.wispr.org)
